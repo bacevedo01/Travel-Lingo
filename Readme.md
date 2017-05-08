@@ -1,5 +1,5 @@
 <h1>Travelingoes</h1>
-Travelingoes is a real time mobile text translator and foreign currency converter.
+Travelingoes is a real time mobile text translator and foreign currency converter. This project was created by students at Dev Bootcamp in San Francisco in 8 days.
 
 <h2>The inspiration:</h2>
 <table>
