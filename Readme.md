@@ -1,6 +1,7 @@
 #Travelingoes
 
 ##The inspiration:
+<img src="https://github.com/bacevedo01/Travel-Lingo/blob/master/Travelingoes_3.png?raw=true">
 
 Our project's inspiration comes from backpacking in Europe and not having a quick reference for signage in another language. Many times travel books and language aids are abbreviated. They may have gaps in the language's syntax and phrases not outside of a common phrasebook and that's where our app comes in.
 
