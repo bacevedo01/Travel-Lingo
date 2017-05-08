@@ -2,15 +2,23 @@
 Travelingoes is a real time mobile text translator and foreign currency converter.
 
 <h2>The inspiration:</h2>
-
-<img src="https://github.com/bacevedo01/Travel-Lingo/blob/master/Travelingoes_3.png?raw=true">
-
+<table>
+<tr>
+  <td>
+  <img src="https://github.com/bacevedo01/Travel-Lingo/blob/master/Travelingoes_3.png?raw=true">
+  </td>
+  <td>
+  <img src="https://github.com/bacevedo01/Travel-Lingo/blob/master/Travelingoes_1.png?raw=true">
+  </td>
+ </tr>
+ </table>
+  
 Our project's inspiration comes from backpacking in Europe and not having a quick reference for signage in another language. Many times travel books and language aids are abbreviated. They may have gaps in the language's syntax and phrases not outside of a common phrasebook and that's where our mobile app comes in.
 
 
 <h2>The Solution:</h2>
 
-<img src="https://github.com/bacevedo01/Travel-Lingo/blob/master/Travelingoes_1.png?raw=true">
+
 
 Utilizing the embeded camera in the smart phone in your hand, Travelingoes autodetects and captures text via an optical character recognition or OCR.
 It leverages the power of Google Translate for concise and accurate language translation. Travelingoes then using text to speech to pronounce the word in it's native language.
