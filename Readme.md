@@ -8,7 +8,7 @@ Travelingoes is a real time text translator and foreign currency converter.
 
 ##The Solution:
 
-(https://github.com/bacevedo01/Travel-Lingo/blob/master/Travelingoes_1.png?raw=true)
+<img src="https://github.com/bacevedo01/Travel-Lingo/blob/master/Travelingoes_1.png?raw=true">
 
 Utilizing the embeded camera in the smart phone in your hand, Travelingoes autodetects and captures text via an optical character recognition or OCR.
 It leverages the power of Google Translate for concise and accurate language translation.
