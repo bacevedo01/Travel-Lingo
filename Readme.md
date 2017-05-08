@@ -21,7 +21,7 @@ Utilizing the embeded camera in the smart phone in your hand, Travelingoes autod
 It leverages the power of Google Translate for concise and accurate language translation. Travelingoes then using text to speech to pronounce the word in it's native language.
 Our world currency converter can convert between 31 world currencies.
 
-<h3>
+<h3>Features</h3>
 <li>Optical Character Recognition
 <li>Translation powered by Google Translate
 <li>Text to Speech
